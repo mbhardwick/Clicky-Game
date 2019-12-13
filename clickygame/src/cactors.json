@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1, 
+		"name": "Jennyanydots",
+		"image": "./images/JennyAnydots.jpg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"name": "Bustopher Jones",
+		"image": "./images/Bustopher_jones.jpg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"name": "Rum Tum Tugger",
+		"image": "./images/Rum_Tum_Tugger.jpg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"name": "Old Deuteronomy",
+		"image": "./images/Old_Deut.jpg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"name": "Grizabella",
+		"image": "./images/Grizabella.jpg",
+		"clicked": false
+	},
+	{
+		"id": 6,
+		"name": "Rumpleteazer",
+		"image": "./images/Rumpleteazer.jpg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"name": "Growltiger",
+		"image": "./images/Growltiger.jpg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"name": "Gus",
+		"image": "./images/Gus.jpg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"name": "Macavity",
+		"image": "./images/Macavity.jpg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"name": "Mr. Mistoffelees",
+		"image": "./images/Mistoffelees.jpg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"name": "Rumpus",
+		"image": "./images/Rumpus.jpg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"name": "Skimbleshanks",
+		"image": "./images/Skimbleshanks.jpg",
+		"clicked": false
+	}
+]
