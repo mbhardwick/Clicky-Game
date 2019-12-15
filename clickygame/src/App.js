@@ -26,7 +26,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Title>Cats the Musical: A Click Game</Title>
-        <h3 className="score">{this.state.score}</h3>
+        <h3 className="score"></h3>
         <h3 className="score card-header">
           Score: {this.state.score}
           <br />
