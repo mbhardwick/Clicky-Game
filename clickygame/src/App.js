@@ -27,7 +27,7 @@ class App extends React.Component {
       console.log("Highscore: " + highScore);
 
     score = 0;
-    message = "You already clicked on " + cats.name + "! You lose!";
+    message = "You already clicked on " + clickedCat[0].name + "! You lose!";
 
     for(let i = 0; i<cats.length; i++) {
       cats[i].clicked = false;
@@ -75,7 +75,9 @@ class App extends React.Component {
     return (
       <Wrapper>
         <Title>Cats the Musical: A Click Game</Title>
-        <h3 className="score"></h3>
+        <h3 className="message">
+          {this.state.message}
+        </h3>
         <h3 className="score card-header">
           Score: {this.state.score}
           <br />
