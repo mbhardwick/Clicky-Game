@@ -9,7 +9,7 @@ For this assignment, you'll create a memory game with React. This assignment wil
 
 ## Deployment
 
-The app is deployed using Github Pages: 
+The app is deployed using Github Pages: https://mbhardwick.github.io/Clicky-Game/
 
 ## Built With
 
